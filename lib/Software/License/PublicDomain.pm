@@ -23,6 +23,8 @@ Software::License::PublicDomain - A Public Domain "License"
  
 B<You should really think hard before using any other license.>
 
+=head1 DESCRIPTION
+
 This "license" is provided for those who want to place their software into the
 public domain.  This is the natural result of publishing something to the
 world.  Any true license (of which Public Domain is not) is an endorsement of
