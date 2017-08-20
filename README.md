@@ -6,19 +6,21 @@ Software::License::PublicDomain - A Public Domain "License"
 
 version 0.1
 
-# NAME
-
-Software::License::PublicDomain - A Public Domain "License"
-
-# WARNING
-
-__You should really think hard before using any other license.__
+# DESCRIPTION
 
 This "license" is provided for those who want to place their software into the
 public domain.  This is the natural result of publishing something to the
 world.  Any true license (of which Public Domain is not) is an endorsement of
 monopolies and the use of force and coercion to control what other people do
 with published information.
+
+# NAME
+
+Software::License::PublicDomain - A Public Domain "License"
+
+# WARNING
+
+**You should really think hard before using any other license.**
 
 # AUTHOR
 
